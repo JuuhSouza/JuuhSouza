@@ -1,6 +1,6 @@
 <img align="left" width="370px" heidth="420px" src="https://github.com/JuuhSouza/JuuhSouza/assets/146949046/5f9f17f3-11e6-4321-89bc-f303f8a0f171">
 
-## Olá, mundo! Estou fazendo o curso de programação Web Full-stack no Instituto da Oportunidade Social (IOS).
+## Olá! Estou fazendo o curso de programação Web Full-stack no Instituto da Oportunidade Social (IOS).
 
 ## Tecnologias que estou aprendendo:
 
