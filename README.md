@@ -1,6 +1,7 @@
 <img align="left" width="370px" heidth="420px" src="https://github.com/JuuhSouza/JuuhSouza/assets/146949046/5f9f17f3-11e6-4321-89bc-f303f8a0f171">
 
-## “A melhor maneira de aprender, seja o que for, é fazendo.”
+## “A natureza é o que sabemos sem ter a arte de exprimi-lo.” 
+Fonte: https://citacoes.in/autores/emily-dickinson/
 
 ## Tecnologias que estou aprendendo:
 
