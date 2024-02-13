@@ -36,7 +36,7 @@
 
 <p align="left">
  
-  🦄 Objetivo: aprender mais sobre desenvolvimento de sites e animações 3d, e crescer profissionalmente.
+  🦄 Objetivo: aprender mais sobre desenvolvimento de sites e marketing e crescer profissionalmente.
 </p>
 
 <p align="left">
