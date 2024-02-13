@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-🏳️‍🌈 eu sou a Júlia  🏳️‍🌈 , estou fazendo curso de desenvolvimento web no IOS, gostaria de me aprofundar mais sobre a programação e suas formas de impactar as pessoas. e tambem gostaria de aprender mais sobre a arte de animação 3d e 2d.
+🏳️‍🌈 eu sou a Júlia  🏳️‍🌈 , estou fazendo curso de desenvolvimento web no IOS, gostaria de me aprofundar mais sobre a programação e suas formas de impactar as pessoas. e tambem gostaria de aprender mais sobre  marketing em geral.
 </p>
 
 <p align="left">
