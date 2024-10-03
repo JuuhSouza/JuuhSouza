@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-🏳️‍🌈 eu sou a Júlia  🏳️‍🌈 , estou fazendo marketing pela unisinos, estou em busca de aprender sobre design e animações 2D e 3D. Meu objetivo é explorar novas formas de contar histórias visualmente, combinando arte e tecnologia. Com um olhar atento aos detalhes, quero desenvolver habilidades que me permitam dar vida a ideias. Acredito que o design é uma poderosa ferramenta de comunicação e estou animada para mergulhar nesse universo.
+🏳️‍🌈 eu sou a Júlia  🏳️‍🌈 , estou fazendo faculdade de marketing pela unisinos, estou em busca de aprender sobre design e animações 2D e 3D. Meu objetivo é explorar novas formas de contar histórias visualmente, combinando arte e tecnologia. Com um olhar atento aos detalhes, quero desenvolver habilidades que me permitam dar vida a ideias. Acredito que o design é uma poderosa ferramenta de comunicação e estou animada para mergulhar nesse universo.
 </p>
 
 <p align="left">
