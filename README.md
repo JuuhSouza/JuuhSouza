@@ -36,8 +36,7 @@
 
 <p align="left">
  
-  🦄 Objetivo: aprender mais sobre desenvolvimento de sites e marketing e crescer profissionalmente.
-</p>
+  🦄 Objetivo: Busco sempre aprender coisas novas, gosto de trabalhar em equipe.  Tenho facilidade cognitiva e proatividade. Busco constante evolução profissional.
 
 <p align="left">
 </p>
