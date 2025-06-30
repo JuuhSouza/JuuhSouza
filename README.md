@@ -7,7 +7,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://github.com/user-attachments/assets/08287dd5-3464-4381-98db-6e38ac245600)
+[![image](https://github.com/user-attachments/assets/08287dd5-3464-4381-98db-6e38ac245600)](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 
 
 ## Encontre-me:
