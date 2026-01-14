@@ -20,12 +20,12 @@
 ![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)
  
 ### Outros conhecimentos:
-# Frontend
+#### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-# Backend
+#### Backend
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)
 ![Postgres](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
