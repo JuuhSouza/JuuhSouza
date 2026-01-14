@@ -25,6 +25,6 @@
 ![Postgres](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
   
 ### Estudando neste momento:
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
