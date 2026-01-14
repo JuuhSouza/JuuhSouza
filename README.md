@@ -35,6 +35,6 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)
 
 ### Redes sociais: 
-<a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
-  <img src="[https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117](https://www.linkedin.com/in/j%C3%BAlia-souza-0577572b2/)" />
+<a href="[https://www.linkedin.com/in/SEU_USUARIO/](https://www.linkedin.com/in/j%C3%BAlia-souza-0577572b2/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
 </a>
